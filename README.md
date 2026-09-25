@@ -1,7 +1,6 @@
 
-GROUP:
-MEMBERS: 225020238 Shilongo Lazarus
-         Evans Namaseb 221056491
+GROUP MEMBERS: 1.Shilongo Lazarus 225020238 
+               2.Evans Namaseb 221056491
 
 
 
@@ -33,9 +32,7 @@ cd DSA521s-Group-Project-2026
 bash
 code .
 
----
-
-### 3. Run the Program
+3. Run the Program
 
 Run in VS Code
 
